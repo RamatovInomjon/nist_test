@@ -1,0 +1,11 @@
+13 ../common/images/face/S002-01-t10_01.ppm facemugshot
+15 ../common/images/face/S004-01-t10_01.ppm facemugshot
+17 ../common/images/face/S006-01-t10_01.ppm facemugshot
+21 ../common/images/face/S008-01-t10_01.ppm facemugshot
+27 ../common/images/face/S010-01-t10_01.ppm facemugshot
+29 ../common/images/face/S012-01-t10_01.ppm facemugshot
+31 ../common/images/face/S013-02-t10_01.ppm facemugshot
+286 ../common/images/face/S152-01-t10_01.ppm facemugshot
+1303 ../common/images/face/multi1.ppm facephotojournalism
+1305 ../common/images/face/multi2.ppm facewild
+1318 ../common/images/face/multi3.ppm facewild

@@ -1,0 +1,2 @@
+../common/images/face/IMG_8888_morph.ppm ../common/images/face/live_8886.ppm FEMALE 468 18
+../common/images/face/IMG_8888_morph.ppm ../common/images/face/live_8887.ppm FEMALE 456 1

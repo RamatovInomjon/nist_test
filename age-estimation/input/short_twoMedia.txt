@@ -1,0 +1,10 @@
+1 ../common/images/face/S001-01-t10_01.ppm facemugshot 31.94 ../common/images/face/S001-09-t10_01.ppm facemugshot
+6 ../common/images/face/S006-01-t10_01.ppm facemugshot 18.08 ../common/images/face/S006-03-t10_01.ppm facemugshot
+8 ../common/images/face/S008-01-t10_01.ppm facemugshot 26.18 ../common/images/face/S008-07-t10_01.ppm facemugshot
+23 ../common/images/face/S023-01-t10_01.ppm facemugshot 22.43 ../common/images/face/S023-04-t10_01.ppm facemugshot
+29 ../common/images/face/S029-01-t10_01.ppm facemugshot 19.17 ../common/images/face/S029-03-t10_01.ppm facemugshot
+30 ../common/images/face/S030-01-t10_01.ppm facemugshot 42.35 ../common/images/face/S030-05-t10_01.ppm facemugshot
+32 ../common/images/face/S032-01-t10_01.ppm facemugshot 17.25 ../common/images/face/S032-03-t10_01.ppm facemugshot
+33 ../common/images/face/S033-01-t10_01.ppm facemugshot 52.62 ../common/images/face/S033-07-t10_01.ppm facemugshot
+36 ../common/images/face/S036-01-t10_01.ppm facemugshot 36.34 ../common/images/face/S036-03-t10_01.ppm facemugshot
+44 ../common/images/face/S044-01-t10_01.ppm facemugshot 40.48 ../common/images/face/S044-09-t10_01.ppm facemugshot

@@ -1,0 +1,11 @@
+1|image ../common/images/face/S001-01-t10_01.ppm unknown
+3|image ../common/images/face/S001-03-t10_01.ppm unknown
+5|image ../common/images/face/S001-05-t10_01.ppm unknown
+7|image ../common/images/face/S001-07-t10_01.ppm unknown
+9|image ../common/images/face/S001-08-t10_02.ppm unknown
+11|image ../common/images/face/S001-09-t10_01.ppm unknown
+13|image ../common/images/face/S003-01-t10_01.ppm unknown
+15|image ../common/images/face/S005-01-t10_01.ppm unknown
+17|image ../common/images/face/S006-02-t10_01.ppm unknown
+19|image ../common/images/face/S007-01-t10_01.ppm unknown
+21|image ../common/images/face/S008-02-t10_01.ppm unknown
